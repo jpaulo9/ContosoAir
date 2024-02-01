@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/jpaulocorp/devjops/_apis/build/status%2Fjpaulo9.ContosoAir?branchName=master)](https://dev.azure.com/jpaulocorp/devjops/_build/latest?definitionId=16&branchName=master)
 
 
 # Microsoft.Github CI Demo
